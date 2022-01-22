@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Chirag1761
-- 👀 I’m interested in Web and Android Developing
-- 🌱 I’m currently learning Android Development
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me chiragparchani1234@gmail.com
 
 <!---
