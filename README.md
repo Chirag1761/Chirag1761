@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chirag Parchani</h1>
 <h3 align="center">Interested in Coding and Web development.</h3>
 
-- 🌱 I’m currently learning  ReactJs, ASP.net, Docker
+- 🌱 I’m currently learning C#, ASP.NET (MVC), RestAPIs, Postman, Newman, Bash Script, ReactJs, Javascript, HTML and CSS
 
 - 📫 How to reach me **chiragparchani1234@gmail.com**
 
